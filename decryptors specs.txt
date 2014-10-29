@@ -1,0 +1,42 @@
+a. REGISTRUL ANUAL DE PROGRAMARE A ÎNMORMÂNTĂRILOR
+Decedat: nume, prenume, religie
+Locul inmormantarii: parcela, data si ora inmormantarii?
+
+Ce este o parcela? Ce contine o parcela?
+
+b. REGISTRUL DE MORMINTE
+cimitir, parcela, numarul mormantului (global din cimitir, sau din parcela?)
+Mormant: Detinator (nume, prenume, domiciliu), nr. chitantei
+Inmormantati: nume, prenume, data inmormantarii, suprafata locului (care loc? parcela contine mai multe locuri? locul contine mai multe parcele/morminte?)
+Constructiile funerare: doar existenta lor? sau si tipul?
+In caz de schimbari proprietar: nr actului in baza caruia s-au efectuat schimbarile
+Fotografie (unde sunt stocate?)
+
+c. REGISTRUL DE MORMINTE-MONUMENTE FUNERARE CU VALOARE ISTORICA ETC.
+parcela, nr mormantului
+Concesionar: nume, prenume, domiciliu, nr chitantei
+Inhumat: nume, prenume, data inhumarii, suprafata locului
+In caz de schimbari proprietar: nr actului in baza caruia s-au efectuat schimbarile
+Fotografie (unde sunt stocate?)
+
+d. REGISTRUL INDEX ANUAL AL DECEDATILOR (diferenta dintre asta si a)
+nume, prenume, cimitir, parcela, nr mormantului
+
+e. REGISTRUL ANUAL DE EVIDENŢĂ A DECEDAŢILOR FĂRĂ APARŢINĂTORI
+adeverinta de inhumare, solicitarea in partea IML/asistenta sociala, harta? (ce trebuie sa contina harta? la fel ca si resutl, parcela, nr mormant, cimitir?)
+
+f. REGISTRUL CU EVIDENŢA CERERILOR DE ATRIBUIRE A LOCURILOR DE ÎNHUMARE
+nr crt, data inregistrarii, nr infocet, stadiu de solutionare (care sunt acestea?)
+
+g. REGISTRUL ANUAL DE EVIDENŢĂ A CONTRACTELOR DE CONCESIUNE
+nr crt, nr si data eliberarii, nume, prenume, adresa
+
+h. REGISTRUL ANUAL CU EVIDENTA SESIZĂRILOR SI RECLAMATIILE CETATENILOR
+ce contine?
+
+i. LOCURI DE VECI EXPIRATE PE ANI
+cimitir, parcela, numar, nume, adresa, etc?
+
+intervalul de timp pentru care s-a emis plata?
+
+Inspectorul trebuie sa aprobe schimbarile din baza de date sau se pot fara acordul lui.
